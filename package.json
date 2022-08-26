@@ -1,21 +1,16 @@
 {
-  "name": "celestial-star-9719",
+  "name": "DATABASE_unit3",
   "version": "1.0.0",
-  "description": "Unit-3 Project",
-  "main": "index.js",
+  "description": "Simple json database to deploy to the host of your choice",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tarique076/celestial-star-9719.git"
-  },
-  "author": "",
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Jesper Orb",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tarique076/celestial-star-9719/issues"
-  },
-  "homepage": "https://github.com/tarique076/celestial-star-9719#readme",
   "dependencies": {
     "json-server": "^0.17.0"
   }
