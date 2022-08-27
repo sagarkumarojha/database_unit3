@@ -1,5 +1,5 @@
 {
-  "name": "DATABASE_unit3",
+  "name": "databse_unit3",
   "version": "1.0.0",
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
